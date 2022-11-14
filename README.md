@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThetaPride
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning vue and react
+- 💞️ I’m looking to collaborate on cool projects
